@@ -11,7 +11,7 @@
 
 - **Missing_data_graphs.ipynb:** graphs illustrating the missing data that exist in patients' diaries 
 
-- **newsplit.ipynb:** spliting of the data in train and test set
+- **Split.ipynb:** spliting of the data in train and test set
 
 - **Predictions_performance.ipynb:** evalutation of the performance of the resulting LSTM and GRU models
 
